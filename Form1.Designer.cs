@@ -64,7 +64,7 @@
             this.label.BackColor = System.Drawing.SystemColors.Highlight;
             this.label.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label.ForeColor = System.Drawing.SystemColors.ControlLightLight;
-            this.label.Location = new System.Drawing.Point(33, 156);
+            this.label.Location = new System.Drawing.Point(41, 156);
             this.label.Name = "label";
             this.label.Size = new System.Drawing.Size(221, 20);
             this.label.TabIndex = 2;
