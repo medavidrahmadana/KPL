@@ -1,0 +1,11 @@
+F:\KPL\Modul3_1302213079\Modul3_1302213079\bin\Debug\Modul3_1302213079.exe.config
+F:\KPL\Modul3_1302213079\Modul3_1302213079\bin\Debug\Modul3_1302213079.exe
+F:\KPL\Modul3_1302213079\Modul3_1302213079\bin\Debug\Modul3_1302213079.pdb
+F:\KPL\Modul3_1302213079\Modul3_1302213079\obj\Debug\Modul3_1302213079.csproj.AssemblyReference.cache
+F:\KPL\Modul3_1302213079\Modul3_1302213079\obj\Debug\Modul3_1302213079.csproj.SuggestedBindingRedirects.cache
+F:\KPL\Modul3_1302213079\Modul3_1302213079\obj\Debug\Modul3_1302213079.Form1.resources
+F:\KPL\Modul3_1302213079\Modul3_1302213079\obj\Debug\Modul3_1302213079.Properties.Resources.resources
+F:\KPL\Modul3_1302213079\Modul3_1302213079\obj\Debug\Modul3_1302213079.csproj.GenerateResource.cache
+F:\KPL\Modul3_1302213079\Modul3_1302213079\obj\Debug\Modul3_1302213079.csproj.CoreCompileInputs.cache
+F:\KPL\Modul3_1302213079\Modul3_1302213079\obj\Debug\Modul3_1302213079.exe
+F:\KPL\Modul3_1302213079\Modul3_1302213079\obj\Debug\Modul3_1302213079.pdb
